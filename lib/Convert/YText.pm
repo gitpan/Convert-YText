@@ -11,7 +11,7 @@ use vars qw/$VERSION @ISA @EXPORT_OK/;
 use encoding "utf-8";
 
 
-$VERSION="0.1.1";
+$VERSION="0.1.1_1";
 
 =head1 NAME
 
