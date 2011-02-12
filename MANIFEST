@@ -1,0 +1,6 @@
+Build.PL
+lib/Convert/YText.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+SIGNATURE    Added here by Module::Build

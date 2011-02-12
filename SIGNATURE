@@ -1,0 +1,30 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.63.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 5a9301fec583b8ea049492af3ac01f82ea6236ac Build.PL
+SHA1 9fad57556d83b8367c2a4ac5e8eb98e45ace1d9e MANIFEST
+SHA1 76adda32b4402abfe014be995b50ebe28610ab00 MANIFEST.SKIP
+SHA1 4f4483867b344a29d7ab7da2ae7b8ae05086b5ef META.yml
+SHA1 e9900cdf397c7274aed63e7843017a57d8dc694a lib/Convert/YText.pm
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iJwEAQECAAYFAk1Wdz0ACgkQTiiN/0Um85l8sgP/ZICQkOPE/MhDFbQhBLquZIT1
+0FggDviVqArv8Vj3uaTyuhPHytKmYutb82Io2cFMapHC5OLMLhdEXr1jibAK0/Jh
+FlUTMaS5/b7V1K2/eUz5Xb+IO4HNGRpuxPGxhClbvFHr/CsgEGnWk9bxnBSIkVF6
+MeINWlp5KQbOs9Yss2c=
+=MObo
+-----END PGP SIGNATURE-----
