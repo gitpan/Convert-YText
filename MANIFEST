@@ -1,10 +1,13 @@
 Build.PL
+Changes
 lib/Convert/YText.pm
 MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
-t/10-roundtrip.t
-t/20-keep-titles.t
+README
+t/00.signature.t
+t/10.roundtrip.t
+t/20.keep-titles.t
 t/corpus.pl
 t/titles.pl
 SIGNATURE    Added here by Module::Build

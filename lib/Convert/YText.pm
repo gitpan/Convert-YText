@@ -11,7 +11,7 @@ use vars qw/$VERSION @ISA @EXPORT_OK/;
 use encoding "utf-8";
 
 
-$VERSION="0.1.1_1";
+$VERSION="0.1.2";
 
 =head1 NAME
 
@@ -255,10 +255,6 @@ under the same terms as Perl itself.
 =head1 SEE ALSO
 
 L<MIME::Base64>, L<MIME::Decoder::Base64>, L<MIME::Decoder::QuotedPrint>.
-
-=head1 ACKNOWLEDGEMENTS
-
-Thanks to jawnsy for encouraging me to OO-ize the module.
 
 =cut
 

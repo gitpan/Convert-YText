@@ -1,0 +1,11 @@
+Revision History for perl module Convert::YText
+
+Author: David Bremner <ddb@cpan.org>
+
+0.1.2    2011-02-13
+	 
+         - Enable tests
+
+0.1.1    2011-02-12
+
+        - First CPAN Upload

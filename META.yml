@@ -13,9 +13,9 @@ name: Convert-YText
 provides:
   Convert::YText:
     file: lib/Convert/YText.pm
-    version: v0.1.1_1
+    version: v0.1.2
 requires:
   Test::More: 0
 resources:
   homepage: http://pivot.cs.unb.ca/git/?p=convert-ytext.git;a=summary
-version: v0.1.1_1
+version: v0.1.2
